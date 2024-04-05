@@ -1,0 +1,51 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.38.33130.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/migue/downloads/uv/programacion/c++/minicraft/minicraft/blocks.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "f6a3ff4338fedff0bb7b050761aa17620a741a9c1fdfb1da9a47d217b8d5a91b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/migue/downloads/uv/programacion/c++/minicraft/minicraft/blocks.h"
+          },
+          "hashes": {
+            "sha-256": "f3cab7f88ee882331b025fae1b008bec991f22e51dbade0b1ff2b687ecc5e27f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/migue/downloads/uv/programacion/c++/minicraft/minicraft/block.h"
+          },
+          "hashes": {
+            "sha-256": "05afd35c3a4bc9c710c3dd4e96ecb504c1ee0d9ae00c928ab96f14024d3c0ecc"
+          }
+        }
+      ]
+    }
+  ]
+}

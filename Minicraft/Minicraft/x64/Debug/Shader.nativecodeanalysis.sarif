@@ -1,0 +1,51 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.38.33130.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/migue/downloads/uv/programacion/c++/minicraft/minicraft/shader.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "2560992c38325167a1474cef215f872f7e132418495943c014356745eeabd610"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/migue/downloads/uv/programacion/c++/minicraft/minicraft/shader.h"
+          },
+          "hashes": {
+            "sha-256": "5b8c16ec39072cd4927cba3a3f5d06d70793bd86b73c81289dcf6a9407292e68"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/migue/downloads/uv/programacion/c++/glew/include/gl/glew.h"
+          },
+          "hashes": {
+            "sha-256": "b0c7d8ac71bb747c1581e522b8c2b7dffae1265d7003e9b0ea84177b9997cead"
+          }
+        }
+      ]
+    }
+  ]
+}

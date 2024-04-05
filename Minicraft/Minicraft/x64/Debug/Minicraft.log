@@ -1,0 +1,209 @@
+﻿  Simulation.cpp
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\Camera.h(38,20): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Simulation.cpp")
+  
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\Simulation.cpp(49,21): warning C4101: 'a': variable local sin referencia
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\Simulation.cpp(85,21): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\Simulation.cpp(124,39): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  World.cpp
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\Camera.h(38,20): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "World.cpp")
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(449,6): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(449,6): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(449,12): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(449,12): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(449,18): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(449,18): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(450,11): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(450,11): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(450,16): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(450,16): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(450,22): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(450,22): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(451,11): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(451,11): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(451,16): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(451,16): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(451,27): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(451,27): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(452,6): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(452,6): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(452,13): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(452,13): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(452,24): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(452,24): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(462,6): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(462,6): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(462,17): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(462,17): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(462,22): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(462,22): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(463,11): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(463,11): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(463,21): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(463,21): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(463,26): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(463,26): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(464,11): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(464,11): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(464,21): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(464,21): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(464,31): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(464,31): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(465,6): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(465,6): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(465,18): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(465,18): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(465,28): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(465,28): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(473,6): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(473,6): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(473,12): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(473,12): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(473,18): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(473,18): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(474,11): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(474,11): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(474,16): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(474,16): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(474,22): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(474,22): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(475,12): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(475,12): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(475,22): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(475,22): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(475,27): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(475,27): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(476,6): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(476,6): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(476,18): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(476,18): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(476,23): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(476,23): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(483,6): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(483,6): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(483,12): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(483,12): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(483,23): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(483,23): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(484,11): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(484,11): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(484,16): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(484,16): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(484,27): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(484,27): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(485,11): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(485,11): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(485,21): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(485,21): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(485,31): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(485,31): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(486,6): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(486,6): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(486,17): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(486,17): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(486,27): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(486,27): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(495,3): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(495,3): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(495,9): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(495,9): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(495,15): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(495,15): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(496,3): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(496,3): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(496,9): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(496,9): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(496,20): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(496,20): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(497,3): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(497,3): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(497,15): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(497,15): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(497,25): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(497,25): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(498,3): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(498,3): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(498,15): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(498,15): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(498,20): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(498,20): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(506,11): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(506,11): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(506,15): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(506,15): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(506,21): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(506,21): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(507,11): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(507,11): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(507,15): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(507,15): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(507,26): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(507,26): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(508,11): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(508,11): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(508,19): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(508,19): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(508,28): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(508,28): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(509,11): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(509,11): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(509,20): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(509,20): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(509,25): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(509,25): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(536,19): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  main.cpp
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\Pool.h(14,34): error C2512: 'Face::Face': no hay disponible un constructor predeterminado adecuado
+  (compilando archivo de origen "World.cpp")
+  C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\Pool.h(14,34):
+  al hacer coincidir la lista de argumentos '()'
+  C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\Pool.h(14,34):
+  el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+  	C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(591,22):
+  	Vea la referencia a la creación de una instancia de clase plantilla "Pool<Face>" que se está compilando
+  	C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\Pool.h(12,5):
+  	al compilar la función del miembro clase plantilla "Pool<Face>::Pool(size_t)"
+  		C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\World.cpp(591,16):
+  		vea la primera referencia a “Pool<Face>::Pool” en “World::loadChunkData”
+  
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\Camera.h(38,20): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\EventHandler.h(40,62): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\EventHandler.h(49,62): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\EventHandler.h(66,15): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\EventHandler.h(66,15): warning C4244:         with
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\EventHandler.h(66,15): warning C4244:         [
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\EventHandler.h(66,15): warning C4244:             T=float
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\EventHandler.h(66,15): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\EventHandler.h(67,15): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\EventHandler.h(67,15): warning C4244:         with
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\EventHandler.h(67,15): warning C4244:         [
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\EventHandler.h(67,15): warning C4244:             T=float
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\EventHandler.h(67,15): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': redefinición de macro
+  (compilando archivo de origen "main.cpp")
+  C:\Users\migue\Downloads\UV\Programacion\C++\glfw\include\GLFW\glfw3.h(123,1):
+  vea la definición anterior de 'APIENTRY'
+  
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\Commands.h(167,76): warning C4244: 'argumento': conversión de 'float' a 'uint8_t'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\Commands.h(167,63): warning C4244: 'argumento': conversión de 'float' a 'uint8_t'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\migue\Downloads\UV\Programacion\C++\Minicraft\Minicraft\Commands.h(167,51): warning C4244: 'argumento': conversión de 'float' a 'uint8_t'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+  Generando código...
