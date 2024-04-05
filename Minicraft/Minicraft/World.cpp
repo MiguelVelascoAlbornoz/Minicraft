@@ -69,7 +69,7 @@ bool World::setBlockInChunk(uint8_t posX, uint8_t posY, uint8_t posZ, Block* blo
     if (headerByteValue == 0) {//Esto es cuando no hay ningun bloque a lo largo del eje Y en el X y Z en cuestion
      
       
-        insertBlock(headerBytePos + 1, posY, 1, &facesToRender);//Simplemente se añade al array de bytes un bloque en la posicion del header + 1
+        insertBlock(headerBytePos + 1, posY, 1, &facesToRender);//Simplemente se aÃ±ade al array de bytes un bloque en la posicion del header + 1
         (*data)[headerBytePos] = uint8_t(1);//Actualizamos el valor del header
         headerByteValue =1;
         miniChunkLength = headerByteValue * blockInformationSize + 2;
@@ -134,7 +134,7 @@ bool World::setBlockInChunk(uint8_t posX, uint8_t posY, uint8_t posZ, Block* blo
 
             // Leer 8 bytes de *data e insertarlos en pointer
             for (int j = 0; j < 8; ++j) {
-                // Desplazar los bytes hacia la izquierda y combinarlos en un número de 64 bits
+                // Desplazar los bytes hacia la izquierda y combinarlos en un nÃºmero de 64 bits
                 pointer |= static_cast<uintptr_t>((*data)[downBlockBytePos + 2 + j]) << (j * 8);
             }
             Face* face = reinterpret_cast<Face*>(pointer);
@@ -157,7 +157,7 @@ bool World::setBlockInChunk(uint8_t posX, uint8_t posY, uint8_t posZ, Block* blo
 
             // Leer 8 bytes de *data e insertarlos en pointer
             for (int j = 0; j < 8; ++j) {
-                // Desplazar los bytes hacia la izquierda y combinarlos en un número de 64 bits
+                // Desplazar los bytes hacia la izquierda y combinarlos en un nÃºmero de 64 bits
                 pointer |= static_cast<uintptr_t>((*data)[insertionPos+blockInformationSize +10 + j]) << (j * 8);//+10 por que 10 = 8 + 2
             }
             Face* face = reinterpret_cast<Face*>(pointer);
@@ -188,7 +188,7 @@ bool World::setBlockInChunk(uint8_t posX, uint8_t posY, uint8_t posZ, Block* blo
                 int sumatorium = nextHeaderPos + blockInformationSize * index + 8 * 4 + 3;
                 // Leer 8 bytes de *data e insertarlos en pointer
                 for (int j = 0; j < 8; ++j) {
-                    // Desplazar los bytes hacia la izquierda y combinarlos en un número de 64 bits
+                    // Desplazar los bytes hacia la izquierda y combinarlos en un nÃºmero de 64 bits
                     pointer |= static_cast<uintptr_t>((*data)[sumatorium + j]) << (j * 8);// 1+8*4 
                 }
                 Face* face = reinterpret_cast<Face*>(pointer);
@@ -218,7 +218,7 @@ bool World::setBlockInChunk(uint8_t posX, uint8_t posY, uint8_t posZ, Block* blo
                 int sumatorium = westBlockHeaderPos + blockInformationSize * index + 8 * 5 + 3;
                 // Leer 8 bytes de *data e insertarlos en pointer
                 for (int j = 0; j < 8; ++j) {
-                    // Desplazar los bytes hacia la izquierda y combinarlos en un número de 64 bits
+                    // Desplazar los bytes hacia la izquierda y combinarlos en un nÃºmero de 64 bits
                     pointer |= static_cast<uintptr_t>((*data)[sumatorium + j]) << (j * 8);
                 }
                 Face* face = reinterpret_cast<Face*>(pointer);
@@ -268,7 +268,7 @@ bool World::setBlockInChunk(uint8_t posX, uint8_t posY, uint8_t posZ, Block* blo
                 int sumatorium = southHeaderPos + blockInformationSize * index + 8 * 3 + 3;
                 // Leer 8 bytes de *data e insertarlos en pointer
                 for (int j = 0; j < 8; ++j) {
-                    // Desplazar los bytes hacia la izquierda y combinarlos en un número de 64 bits
+                    // Desplazar los bytes hacia la izquierda y combinarlos en un nÃºmero de 64 bits
                     pointer |= static_cast<uintptr_t>((*data)[sumatorium + j]) << (j * 8);//1 + 8*3
                 }
                 Face* face = reinterpret_cast<Face*>(pointer);
@@ -313,7 +313,7 @@ bool World::setBlockInChunk(uint8_t posX, uint8_t posY, uint8_t posZ, Block* blo
                int sumatorium = northHeaderPos + blockInformationSize * index + 8 * 2 + 3;
                // Leer 8 bytes de *data e insertarlos en pointer
                for (int j = 0; j < 8; ++j) {
-                   // Desplazar los bytes hacia la izquierda y combinarlos en un número de 64 bits
+                   // Desplazar los bytes hacia la izquierda y combinarlos en un nÃºmero de 64 bits
                    pointer |= static_cast<uintptr_t>((*data)[sumatorium + j]) << (j * 8);
                }
                Face* face = reinterpret_cast<Face*>(pointer);
@@ -414,7 +414,7 @@ void World::insertBlock(int insertionPos, uint8_t posY, uint8_t blockID, std::ve
        
     }
  
-    // Insertar el bloque de datos en la posición deseada en el vector data
+    // Insertar el bloque de datos en la posiciÃ³n deseada en el vector data
     data->insert(data->begin() + insertionPos, blockData.begin(), blockData.end());
 
 }
@@ -588,7 +588,7 @@ void World::insertBlock(int insertionPos, uint8_t posY, uint8_t blockID, std::ve
      }
      data = new std::vector<uint8_t>((std::istreambuf_iterator<char>(inputFile)), (std::istreambuf_iterator<char>()));//Leemos todo el archivo
      inputFile.close();
-     facesPool = new Pool<Face>(187500);
+     //facesPool = new Pool<Face>(187500);
      return true;
  }
 
